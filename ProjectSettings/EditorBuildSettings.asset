@@ -140,4 +140,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Juego/Scenes/GameOver.unity
     guid: 465682a789b8d5f4098f2c4bc93a0484
+  - enabled: 1
+    path: Assets/Juego/Scenes/Pantalla inicio.unity
+    guid: 5669c179d8a75404fae92757827d4c86
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
