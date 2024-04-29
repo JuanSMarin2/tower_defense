@@ -4,6 +4,7 @@ using MoreMountains.Tools;
 using System.Collections.Generic;
 using MoreMountains.InventoryEngine;
 using MoreMountains.Feedbacks;
+using UnityEngine.SceneManagement;
 
 namespace MoreMountains.TopDownEngine
 {
@@ -239,6 +240,14 @@ namespace MoreMountains.TopDownEngine
 			}
 		}
 
+ void Update()
+		{
+
+if(CurrentLives<=0){
+	SceneManager.LoadScene("GameOver 1");
+}
+		}
+
 		/// <summary>
 		/// Use this method to increase the max amount of lives, and optionnally the current amount as well
 		/// </summary>
@@ -252,6 +261,7 @@ namespace MoreMountains.TopDownEngine
 				CurrentLives += lives;
 			}
 		}
+
 
 		/// <summary>
 		/// Resets the number of lives to their initial values.

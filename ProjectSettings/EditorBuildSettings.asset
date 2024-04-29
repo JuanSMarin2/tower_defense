@@ -152,4 +152,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Juego/Scenes/Nivel 1.unity
     guid: a6fbb9ebbda760e419dd6b4666526d78
+  - enabled: 1
+    path: Assets/Juego/Scenes/GameOver 1.unity
+    guid: 53fe5edc1def15845aa3ec18a4c25f20
+  - enabled: 1
+    path: Assets/Juego/Scenes/Nivel 2.unity
+    guid: 8febf5a6c4fbb7c4cb452b0b5164ac31
+  - enabled: 1
+    path: Assets/Juego/Scenes/Nivel 3.unity
+    guid: daeff7904f7d9104cab91ab7919908db
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
