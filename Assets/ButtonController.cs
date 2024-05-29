@@ -33,7 +33,7 @@ public class ButtonController : MonoBehaviour
              SceneManager.LoadScene("Nivel 2");
         } 
     }
-
+ 
     private void ReducePoints(int amount)
     {
         points -= amount;
