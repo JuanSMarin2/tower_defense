@@ -16,7 +16,7 @@ public class ButtonController : MonoBehaviour
     void Start()
     {
         UpdatePointsText();
-        
+         
     }
 
     public void OnButtonClick()
