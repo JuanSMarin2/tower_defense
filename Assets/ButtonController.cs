@@ -27,7 +27,7 @@ public class ButtonController : MonoBehaviour
             currentIndex++; 
             ReducePoints(5); // Reduce los puntos en 5 cada vez que se activa una torre
         }
-        else   
+        else    
         {   
             Debug.Log("Todas las torres ya están activadas");
              SceneManager.LoadScene("Nivel 2");
