@@ -351,6 +351,7 @@ namespace MoreMountains.TopDownEngine
 		/// <summary>
 		/// Binds an animator to this character
 		/// </summary>
+
 		public virtual void AssignAnimator(bool forceAssignation = false)
 		{
 			if (_animatorInitialized && !forceAssignation)
@@ -404,7 +405,6 @@ namespace MoreMountains.TopDownEngine
 			int randomConstant = UnityEngine.Random.Range(0, 1000);
 			MMAnimatorExtensions.UpdateAnimatorInteger(_animator, _randomConstantAnimationParameter, randomConstant, _animatorParameters, RunAnimatorSanityChecks);
 		}
-
 		/// <summary>
 		/// Gets (if it exists) the InputManager matching the Character's Player ID
 		/// </summary>
