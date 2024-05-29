@@ -31,7 +31,7 @@ public class ButtonController : MonoBehaviour
         {   
             Debug.Log("Todas las torres ya están activadas");
              SceneManager.LoadScene("Nivel 2");
-        } 
+        }  
     } 
  
     private void ReducePoints(int amount)
