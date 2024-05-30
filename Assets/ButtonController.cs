@@ -26,7 +26,7 @@ public class ButtonController : MonoBehaviour
         {
             towers[currentIndex].Activate();
             currentIndex++; 
-            ReducePoints(5); // Reduce los puntos en 5 cada vez que se activa una torre
+            ReducePoints(5); // Reduce los puntos en 5 cada vez que se activa una torre.
         }
         else    
         {    
