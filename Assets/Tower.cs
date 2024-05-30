@@ -25,4 +25,5 @@ public bool isActive = false;
         Debug.Log("Torre activada en " + transform.position);
         
     }
+
 }
