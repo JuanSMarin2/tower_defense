@@ -43,6 +43,7 @@ public class ButtonController : MonoBehaviour
 
     private void UpdatePointsText()
     {
+
         pointsText.text = points.ToString();
     }
 }
