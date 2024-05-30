@@ -21,5 +21,6 @@ public bool isActive = false;
         gameObject.SetActive(true);
 
         Debug.Log("Torre activada en " + transform.position);
+        
     }
 }
