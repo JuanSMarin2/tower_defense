@@ -38,6 +38,7 @@ public class ButtonController : MonoBehaviour
     private void ReducePoints(int amount)
     {
         points -= amount;
+
         UpdatePointsText();
     }
 
