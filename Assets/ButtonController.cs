@@ -31,7 +31,7 @@ public class ButtonController : MonoBehaviour
         else    
         {    
             Debug.Log("Todas las torres ya están activadas");
-             SceneManager.LoadScene("Nivel 2");
+             SceneManager.LoadScene(" Nivel 2 ");
         }  
     } 
  
