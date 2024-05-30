@@ -45,5 +45,6 @@ public class ButtonController : MonoBehaviour
     {
 
         pointsText.text = points.ToString();
+
     }
 }
