@@ -14,6 +14,7 @@ public bool isActive = false;
     }
 
     public void Activate()
+
     {
         isActive = true;
         gameObject.SetActive(true);
