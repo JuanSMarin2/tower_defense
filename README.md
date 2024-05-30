@@ -1,4 +1,4 @@
-﻿\## Creditos
+﻿\## Créditos
 
 - Daniel Felipe Monsalve Vargas
 - Juan Sebastian Marin Aristizábal
