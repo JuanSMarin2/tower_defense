@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 public class ButtonController : MonoBehaviour
 {
  public Tower[] towers;
+
     private int currentIndex = 0;
     [SerializeField] private TMP_Text pointsText; // Usando SerializeField para hacerlo visible en el inspector
 
