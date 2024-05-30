@@ -8,7 +8,9 @@ public bool isActive = false;
 
     void Start()
     {
+
         gameObject.SetActive(isActive);
+
     }
 
     public void Activate()
