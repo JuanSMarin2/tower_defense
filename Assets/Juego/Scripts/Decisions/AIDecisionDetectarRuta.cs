@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using MoreMountains.Tools;
 using UnityEngine;
 
-public class AIDecisionDetectarRuta : AIDecision
+public class AIDecisionDetectarRuta : AIDecision //D
 {
     private MMPath mp;
 
