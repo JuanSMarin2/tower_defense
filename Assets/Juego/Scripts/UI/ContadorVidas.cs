@@ -15,7 +15,7 @@ public class ContadorVidas : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    // Update is called once per frame.
     void Update()
     {
         contador.SetText(GameManager.Instance.CurrentLives.ToString());
