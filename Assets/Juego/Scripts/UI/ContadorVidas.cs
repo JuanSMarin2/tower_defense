@@ -9,7 +9,7 @@ public class ContadorVidas : MonoBehaviour
     [SerializeField]
     private TMP_Text contador;
 
-    // Start is called before the first frame update
+    // Start is called before the first frame update.
     void Start()
     {
         
