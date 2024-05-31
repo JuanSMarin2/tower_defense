@@ -22,5 +22,7 @@ public class Enemigo
     }
     public GameObject Obj { get => obj; set => obj = value; }
     //public MMPath Camino { get => camino; set => camino = value; }
+
+    //l
 }
 
