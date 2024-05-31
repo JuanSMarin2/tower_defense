@@ -5,7 +5,7 @@ using MoreMountains.Tools;
 using UnityEngine;
 
 [Serializable]
-//Identifica el prefab correspondiente de tipo de enemigo
+//Identifica el prefab correspondiente de tipo de enemigo.
 public enum TipoEnemigo{
     Koala, Ninja
 }
