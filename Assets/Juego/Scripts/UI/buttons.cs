@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class buttons : MonoBehaviour
+public class buttons : MonoBehaviour //Scrip botones
 {
 public void iniciar()
 {
