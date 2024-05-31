@@ -17,7 +17,7 @@ public class Ola : MonoBehaviour
     private float tiempo_entre_olas;
     private bool ola_despachada;
     [SerializeField]
-    //Esta es la ruta que seguiran todos los enemigos de la ola
+    //Esta es la ruta que seguiran todos los enemigos de la ola.
     [Header("Debug")]
     [MMInspectorButton("AgregarUnEnemigo")]
     /// a test button to spawn an object
