@@ -4,7 +4,7 @@ using MoreMountains.Tools;
 using MoreMountains.TopDownEngine;
 using UnityEngine;
 
-//Esta decisión activará al enemigo si es requerido, sino lo desactiva
+//Esta decisión activará al enemigo si es requerido, sino lo desactiva.
 public class AIDecisionActivarEnemigo : AIDecision
 {
     private Character character;
