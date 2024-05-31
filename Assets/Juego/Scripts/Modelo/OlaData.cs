@@ -4,7 +4,7 @@ using MoreMountains.Tools;
 using UnityEngine;
 
 [Serializable]
-public class OlaData
+public class OlaData //l
 {
     [SerializeField]
     private float tiempoSalida;
