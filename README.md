@@ -2,7 +2,7 @@
 
 - Daniel Felipe Monsalve Vargas.
 - Juan Sebastian Marin Aristizábal.
-- Ricardo Arturo Guerrero Oliva
+- Ricardo Arturo Guerrero Oliva.
 
                                                          HISTORIA HIVE WARS
 
