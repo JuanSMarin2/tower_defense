@@ -10,7 +10,7 @@ public class ButtonController : MonoBehaviour
  public Tower[] towers;
 
     private int currentIndex = 0;
-    [SerializeField] private TMP_Text pointsText; // Usando SerializeField para hacerlo visible en el inspector
+    [SerializeField] private TMP_Text pointsText; // Usando SerializeField para hacerlo visible en el inspector.
 
     private int points = 20;
 
