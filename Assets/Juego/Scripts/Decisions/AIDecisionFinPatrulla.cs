@@ -11,7 +11,7 @@ public class AIDecisionFinPatrulla : AIDecision
     public override void Initialization(){
         ruta = GetComponent<Ruta>();
         if(ruta==null){
-            throw new Exception("La ruta no se asigno como componente del Character");
+            throw new Exception("La ruta no se asigno como componente del Character.");
         }
     }
     public override bool Decide(){
