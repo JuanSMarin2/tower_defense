@@ -4,7 +4,7 @@ using MoreMountains.Tools;
 using MoreMountains.TopDownEngine;
 using UnityEngine;
 
-public class AIDecisionCambioVidas : AIDecision
+public class AIDecisionCambioVidas : AIDecision //Vidas
 {
     private int vidas;
 
