@@ -4,7 +4,7 @@
 - Juan Sebastian Marin Aristizábal.
 - Ricardo Arturo Guerrero Oliva.
 
-                                                         HISTORIA HIVE WARS
+                                                         HISTORIA HIVE WARS.
 
 En lo profundo del bosque, donde la luz del sol baila entre los árboles centenarios, se encuentra el reino de las abejas. En este reino, las laboriosas abejas trabajan incansablemente para producir la dulce y dorada miel que tanto aprecian. Cada día, desde el amanecer hasta el anochecer, las abejas zumban con diligencia alrededor de su panal, recolectando néctar de las flores y convirtiéndolo en néctar en la seguridad de su hogar.
 
